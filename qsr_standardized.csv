@@ -1,0 +1,265 @@
+Brand,Metric,Region,Year,Value
+McD,Revenue (Company Operated),US,2023,3221.0
+McD,Revenue (Company Operated),US,2022,2836.0
+McD,Revenue (Company Operated),US,2021,2617.0
+McD,Revenue (Company Operated),International Operated Markets,2023,5702.0
+McD,Revenue (Company Operated),International Operated Markets,2022,5179.0
+McD,Revenue (Company Operated),International Operated Markets,2021,6456.0
+McD,Revenue (Company Operated),International Developmental Licensed,2023,819.0
+McD,Revenue (Company Operated),International Developmental Licensed,2022,733.0
+McD,Revenue (Company Operated),International Developmental Licensed,2021,715.0
+McD,Revenue (Franchised),US,2023,7163.0
+McD,Revenue (Franchised),US,2022,6585.0
+McD,Revenue (Franchised),US,2021,6094.0
+McD,Revenue (Franchised),International Operated Markets,2023,6549.0
+McD,Revenue (Franchised),International Operated Markets,2022,5985.0
+McD,Revenue (Franchised),International Operated Markets,2021,5638.0
+McD,Revenue (Franchised),International Developmental Licensed,2023,1724.0
+McD,Revenue (Franchised),International Developmental Licensed,2022,1536.0
+McD,Revenue (Franchised),International Developmental Licensed,2021,1353.0
+McD,Revenue (Other),Global,2023,316.0
+McD,Revenue (Other),Global,2022,329.0
+McD,Revenue (Other),Global,2021,351.0
+McD,Revenue (Total),Global,2023,25494.0
+McD,Revenue (Total),Global,2022,23183.0
+McD,Revenue (Total),Global,2021,23224.0
+McD,Operating Revenue (Company Operated Sales),Global,2023,9742.0
+McD,Operating Revenue (Company Operated Sales),Global,2022,8748.0
+McD,Operating Revenue (Company Operated Sales),Global,2021,9787.0
+McD,Operating Revenue (Franchised),Global,2023,15436.0
+McD,Operating Revenue (Franchised),Global,2022,14106.0
+McD,Operating Revenue (Franchised),Global,2021,13085.0
+McD,Operating/Non-Operating Results,Global,2023,316.0
+McD,Operating/Non-Operating Results,Global,2022,329.0
+McD,Operating/Non-Operating Results,Global,2021,351.0
+McD,Operating/Non-Operating Results,Global,2023,8224.0
+McD,Operating/Non-Operating Results,Global,2022,7381.0
+McD,Operating/Non-Operating Results,Global,2021,8047.0
+McD,Operating/Non-Operating Results,Global,2023,2475.0
+McD,Operating/Non-Operating Results,Global,2022,2350.0
+McD,Operating/Non-Operating Results,Global,2021,2335.0
+McD,Operating/Non-Operating Results,Global,2023,232.0
+McD,Operating/Non-Operating Results,Global,2022,245.0
+McD,Operating/Non-Operating Results,Global,2021,260.0
+McD,Operating/Non-Operating Results,Global,2023,382.0
+McD,Operating/Non-Operating Results,Global,2022,312.0
+McD,Operating/Non-Operating Results,Global,2021,312.0
+McD,Operating/Non-Operating Results,Global,2023,2435.0
+McD,Operating/Non-Operating Results,Global,2022,2492.0
+McD,Operating/Non-Operating Results,Global,2021,2378.0
+McD,Operating/Non-Operating Results,Global,2023,99.0
+McD,Operating/Non-Operating Results,Global,2022,-483.0
+McD,Operating/Non-Operating Results,Global,2021,42.0
+McD,Operating/Non-Operating Results,Global,2023,11647.0
+McD,Operating/Non-Operating Results,Global,2022,9371.0
+McD,Operating/Non-Operating Results,Global,2021,10356.0
+McD,Operating/Non-Operating Results,Global,2023,1361.0
+McD,Operating/Non-Operating Results,Global,2022,1207.0
+McD,Operating/Non-Operating Results,Global,2021,1186.0
+McD,Operating/Non-Operating Results,Global,2023,236.0
+McD,Operating/Non-Operating Results,Global,2022,339.0
+McD,Operating/Non-Operating Results,Global,2021,42.0
+McD,Operating/Non-Operating Results,Global,2023,2053.0
+McD,Operating/Non-Operating Results,Global,2022,1648.0
+McD,Operating/Non-Operating Results,Global,2021,1583.0
+McD,Operating/Non-Operating Results,Global,2023,8469.0
+McD,Operating/Non-Operating Results,Global,2022,8370.0
+McD,Operating/Non-Operating Results,Global,2021,7122.0
+McD,Operating/Non-Operating Results,Global,2023,11.56
+McD,Operating/Non-Operating Results,Global,2022,8.36
+McD,Operating/Non-Operating Results,Global,2021,10.04
+McD,Operating/Non-Operating Results,Global,2023,732.3
+McD,Operating/Non-Operating Results,Global,2022,741.3
+McD,Operating/Non-Operating Results,Global,2021,751.8
+McD,Income,Global,2023,9741.6
+McD,Income,Global,2022,8748.4
+McD,Income,Global,2021,9787.4
+McD,Income,Global,2023,15436.5
+McD,Income,Global,2022,14105.8
+McD,Income,Global,2021,13085.4
+McD,Income,Global,2023,315.6
+McD,Income,Global,2022,328.4
+McD,Income,Global,2021,350.1
+McD,Company_Operated_Restaurant_Expenses,Global,2023,3039.0
+McD,Company_Operated_Restaurant_Expenses,Global,2022,2737.3
+McD,Company_Operated_Restaurant_Expenses,Global,2021,3096.8
+McD,Company_Operated_Restaurant_Expenses,Global,2023,2885.8
+McD,Company_Operated_Restaurant_Expenses,Global,2022,2617.4
+McD,Company_Operated_Restaurant_Expenses,Global,2021,2677.2
+McD,Company_Operated_Restaurant_Expenses,Global,2023,2299.3
+McD,Company_Operated_Restaurant_Expenses,Global,2022,2026.2
+McD,Company_Operated_Restaurant_Expenses,Global,2021,2273.8
+McD,Franchise_Expenses,Global,2023,2474.6
+McD,Franchise_Expenses,Global,2022,2349.7
+McD,Franchise_Expenses,Global,2021,2335.0
+McD,Expenses,Global,2023,232.5
+McD,Expenses,Global,2022,244.8
+McD,Expenses,Global,2021,260.4
+McD,Expenses,Global,2023,381.7
+McD,Expenses,Global,2022,370.4
+McD,Expenses,Global,2021,329.7
+McD,Expenses,Global,2023,2435.2
+McD,Expenses,Global,2022,2492.2
+McD,Expenses,Global,2021,2377.8
+McD,Expenses,Global,2023,98.9
+McD,Expenses,Global,2022,973.6
+McD,Expenses,Global,2021,-483.3
+McD,Total,Global,2023,11646.7
+McD,Total,Global,2022,9371.0
+McD,Total,Global,2021,10356.0
+McD,Expenses,Global,2023,1360.8
+McD,Expenses,Global,2022,1207.0
+McD,Expenses,Global,2021,1185.8
+McD,Income,Global,2023,236.3
+McD,Income,Global,2022,-338.6
+McD,Income,Global,2021,-42.3
+McD,Expenses,Global,2023,2053.4
+McD,Expenses,Global,2022,1648.0
+McD,Expenses,Global,2021,1582.7
+McD,Total,Global,2023,8468.8
+McD,Total,Global,2022,6177.4
+McD,Total,Global,2021,7544.7
+McD,Per_Share_Data,Global,2023,11.63
+McD,Per_Share_Data,Global,2022,8.39
+McD,Per_Share_Data,Global,2021,10.11
+McD,Per_Share_Data,Global,2023,11.56
+McD,Per_Share_Data,Global,2022,8.33
+McD,Per_Share_Data,Global,2021,10.04
+McD,Per_Share_Data,Global,2023,6.23
+McD,Per_Share_Data,Global,2022,5.66
+McD,Per_Share_Data,Global,2021,5.25
+McD,Per_Share_Data,Global,2023,727.9
+McD,Per_Share_Data,Global,2022,736.5
+McD,Per_Share_Data,Global,2021,746.3
+McD,Per_Share_Data,Global,2023,732.3
+McD,Per_Share_Data,Global,2022,741.3
+McD,Per_Share_Data,Global,2021,751.8
+McD,Current_Assets,Global,2023,4579.3
+McD,Current_Assets,Global,2022,2583.8
+McD,Current_Assets,Global,2023,2488.0
+McD,Current_Assets,Global,2022,2115.0
+McD,Current_Assets,Global,2023,52.8
+McD,Current_Assets,Global,2022,52.0
+McD,Current_Assets,Global,2023,866.3
+McD,Current_Assets,Global,2022,673.4
+McD,Other_Assets,Global,2023,1080.2
+McD,Other_Assets,Global,2022,1064.5
+McD,Other_Assets,Global,2023,3040.4
+McD,Other_Assets,Global,2022,2900.4
+McD,Other_Assets,US,2023,5617.8
+McD,Other_Assets,US,2022,4707.2
+McD,Lease_Property,US,2023,13514.4
+McD,Lease_Property,US,2022,12565.7
+McD,Lease_Property,Global,2023,43570.0
+McD,Lease_Property,Global,2022,41037.6
+McD,Lease_Property,Global,2023,-18662.4
+McD,Lease_Property,Global,2022,-17264.0
+McD,Total,Global,2023,56146.8
+McD,Current_Liabilities,Global,2023,2192.4
+McD,Current_Liabilities,Global,2022,0.0
+McD,Current_Liabilities,Global,2023,1102.9
+McD,Current_Liabilities,Global,2022,980.2
+McD,Current_Liabilities,Global,2023,688.1
+McD,Current_Liabilities,Global,2022,661.1
+McD,Current_Liabilities,Global,2023,705.1
+McD,Current_Liabilities,Global,2022,274.9
+McD,Current_Liabilities,Global,2023,268.0
+McD,Current_Liabilities,Global,2022,355.1
+McD,Current_Liabilities,Global,2023,468.9
+McD,Current_Liabilities,Global,2022,293.1
+McD,Current_Liabilities,Global,2023,1433.6
+McD,Current_Liabilities,Global,2022,1237.4
+McD,Long_Term_Liabilities,Global,2023,37152.9
+McD,Long_Term_Liabilities,Global,2022,35903.5
+McD,Long_Term_Liabilities,Global,2023,13057.7
+McD,Long_Term_Liabilities,Global,2022,12134.4
+McD,Long_Term_Liabilities,Global,2023,790.1
+McD,Long_Term_Liabilities,Global,2022,757.8
+McD,Long_Term_Liabilities,Global,2023,363.2
+McD,Long_Term_Liabilities,Global,2022,791.9
+McD,Long_Term_Liabilities,Global,2023,949.7
+McD,Long_Term_Liabilities,Global,2022,1051.8
+McD,Long_Term_Liabilities,Global,2023,1680.9
+McD,Long_Term_Liabilities,Global,2022,1997.5
+McD,Shareholders,Global,2023,0.0
+McD,Shareholders,Global,2022,0.0
+McD,Shareholders,Global,2023,16.6
+McD,Shareholders,Global,2022,16.6
+McD,Shareholders,Global,2023,8892.9
+McD,Shareholders,Global,2022,8547.1
+McD,Shareholders,Global,2023,63479.9
+McD,Shareholders,Global,2022,59549.3
+McD,Shareholders,Global,2023,-2456.0
+McD,Shareholders,Global,2022,-2466.6
+McD,Shareholders,Global,2023,-74640.1
+McD,Shareholders,Global,2022,-71624.9
+McD,Total,Global,2023,56146.8
+McD,Total,Global,2021,40031.0
+McD,Total,Global,2022,40275.0
+McD,Total,Global,2023,41822.0
+McD,Total,US,2021,13438.0
+McD,Total,US,2022,13444.0
+McD,Total,US,2023,13457.0
+McD,Total,Global,2021,2040.0
+McD,Total,Global,2022,1899.0
+McD,Total,Global,2023,2775.0
+McD,Total,US,2021,1000.0
+McD,Total,US,2022,900.0
+McD,Total,US,2023,1200.0
+BK,System-wide Sales,Global,2023,27019.0
+BK,System-wide Sales,Global,2022,23450.0
+BK,System-wide Sales,Global,2021,21690.0
+BK,System-wide Sales Growth %,Global,2023,6.9
+BK,System-wide Sales Growth %,Global,2022,2.8
+BK,System-wide Sales Growth %,Global,2021,4.2
+BK,Comparable Sales Growth %,US,2023,7.4
+BK,Comparable Sales Growth %,US,2022,2.3
+BK,Comparable Sales Growth %,US,2021,4.8
+BK,Net Restaurant Growth,US,2023,-3.3
+BK,Net Restaurant Growth,US,2022,-0.6
+BK,Net Restaurant Growth,US,2021,0.7
+BK,Store Count,Global,2023,19384.0
+BK,Store Count,Global,2022,19035.0
+BK,Store Count,Global,2021,18625.0
+BK,Store Count,US & Canada,2023,7144.0
+BK,Store Count,US & Canada,2022,7389.0
+BK,Store Count,US & Canada,2021,7433.0
+BK,Store Count,US,2023,6643.0
+BK,Store Count,US,2022,6778.0
+BK,Store Count,US,2021,7105.0
+BK,Revenue,Global,2023,1837.0
+BK,Revenue,Global,2022,1688.0
+BK,Revenue,Global,2021,1553.0
+BK,Revenue,US,2023,1297.0
+BK,Revenue,US,2022,1196.0
+BK,Revenue,US,2021,1156.0
+BK,Operating Income,Global,2023,983.0
+BK,Operating Income,Global,2022,921.0
+BK,Operating Income,Global,2021,932.0
+BK,Operating Income,US,2023,386.0
+BK,Operating Income,US,2022,396.0
+BK,Operating Income,US,2021,421.0
+BK,Revenue,US,2023,392.0
+BK,Revenue,US,2022,296.0
+BK,Revenue,US,2021,211.0
+BK,Revenue,US,2023,1216.0
+BK,Revenue,US,2022,1171.0
+BK,Revenue,US,2021,1130.0
+BK,Revenue,US,2023,229.0
+BK,Revenue,US,2022,221.0
+BK,Revenue,US,2021,212.0
+BK,Revenue,US,2023,495.0
+BK,Revenue,US,2022,438.0
+BK,Revenue,US,2021,400.0
+BK,Depreciation_Us_Canada,US,2023,46.0
+BK,Depreciation_Us_Canada,US,2022,45.0
+BK,Depreciation_Us_Canada,US,2021,44.0
+BK,Capex_Us_Canada,US,2023,37.0
+BK,Capex_Us_Canada,US,2022,31.0
+BK,Capex_Us_Canada,US,2021,13.0
+BK,Brand_Value,Global,2023,2107.0
+BK,Brand_Value,Global,2022,2088.0
+BK,Goodwill,Global,2023,485.0
+BK,Goodwill,Global,2022,480.0
+BK,Remodel_Investment_2023,US,2023,44.0
+BK,Digital_Investment_2023,US,2023,60.0
